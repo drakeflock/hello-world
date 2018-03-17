@@ -1,4 +1,5 @@
 # hello-world
 This is my short decription.
-And now I want to add a little more decription to the intial readme.
-This will be diffrent from the master though until I want it to be updated I presume.
+I am going to edit this intial description. I will  make an edit in a readme-edit branch.
+Than I will make a pull request.
+I will then merge the pull request into the master.
